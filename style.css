@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Catamaran', sans-serif;
+}
+
+.text-white{
+    color: white;
+}
+
+
+h1{
+    font-weight: 700;
+    font-size: 98px;
+}
+
+.h2{
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.logo{
+    width: 100px;
+    height: 60px;
+    
+}
+
+.margin-l{
+    margin-left: 25px;
+}
+
+.text-40{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.font-0{
+    font-size: 80px;
+    font-weight: 800;
+   
+}
+.font-1{
+    font-size: 58px;
+    color: transparent;
+    -webkit-text-stroke: 1px white;
+    font-weight: 800;
+    margin-top: 50px;
+}
+
+.background1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0,0,0,0.7)), url(./GetPaidStock.com-62d59230a6eff.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar{
+    z-index: 99;
+    background-color: transparent;
+}
+
+.ml-4{
+    margin-left: 60px;
+}
+
+.margin-10{
+    margin-top: -270px;
+    background-color: white;
+    
+}
+
+.btn-chan{
+    margin-top: 20px;
+    color: #221A1A;
+    background-color: transparent;
+    font-weight: 500;
+    border: 1px solid #221A1A;
+    padding: 10px 30px;
+    border-bottom-right-radius:20px ;
+}
+
+.btn-chan:hover{
+    background-color: #221A1A ;
+    color: white;
+    transition-duration: 0.5s;
+}
+.btn-chan1{
+    margin-top: 20px;
+    color: white;
+    background-color: transparent;
+    font-weight: 500;
+    border: 1px solid white;
+    padding: 10px 30px;
+    border-bottom-right-radius:20px ;
+}
+
+.btn-chan1:hover{
+    background-color: white ;
+    color: #221A1A;
+    transition-duration: 0.5s;
+    border: 1px solid white;
+}
+
+.backimg{
+    background-image: url(./GetPaidStock.com-62d5925eec5c0.jpg);
+}
+
+.bg-blac{
+    background-color: #31373F;
+    color: white;
+}
+
+.pad{
+    padding: 130px 30px;
+}
+
+.line-h{
+    line-height: 25px;
+}
+.line-h1{
+    line-height: 35px;
+    padding: 10px 40px;
+}
+
+.padd1{
+    margin-top: 30px;
+}
+
+.bg-primary1{
+    background-color: #4881BC;
+}
+
+.bg-black1{
+    background-color: #31373F;
+}
